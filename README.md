@@ -1,44 +1,81 @@
-# vCard - Personal portfolio
+# Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio! This project showcases my work as a frontend developer, highlighting my skills, education, and the services I offer.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## Table of Contents
+- [About Me](#about-me)
+- [Technologies Used](#technologies-used)
+- [Sections](#sections)
+- [How to Use](#how-to-use)
+- [Contact](#contact)
+- [License](#license)
 
-## Demo
+## About Me
+I am **Bruno Chiodelli**, a frontend developer from Argentina, specialized in creating modern and responsive web interfaces. I study at **UTN** and **Coderhouse** to expand my knowledge in full stack web development and **React**.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+My goal is to build functional, intuitive, and engaging websites that combine design and code, ensuring each project reflects identity and purpose.
 
-## Prerequisites
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- SASS
+- Bootstrap
+- Google Fonts
+- Font Awesome
 
-Before you begin, ensure you have met the following requirements:
+## Sections
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### Sidebar
+Contains personal information including:
+- Profile picture
+- Name and title
+- Contact details (email, phone, birthday, location)
+- Social media links (LinkedIn, GitHub)
 
-## Installing vCard
+### Navigation Bar
+Includes links to the main sections:
+- **About**
+- **Resume**
+- **Portfolio**
+- **Blog**
+- **Contact**
 
-To install **vCard**, follow these steps:
+### About
+Details my background, goals, and the services I provide:
+- **Web design**: Modern, high-quality design.
+- **Web development**: Professional-level site development.
+- **Mobile apps**: Development of iOS and Android applications.
 
-Linux and macOS:
+### Resume
+Showcases my educational background:
+- **UTN**: Java programming and Python basics.
+- **UTN BA**: Frontend development with HTML, CSS, JavaScript, React.js, and more.
+- **Coderhouse**: Web development, JavaScript, and mobile app development.
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+### Skills
+A list of technical skills, presented with a clean design.
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/chiodelli-bruno
+   ```
+2. Open `index.html` in your browser.
+3. Explore the sections to view my projects and learn more about me.
 
 ## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+You can reach me through:
+- **Email**: [bruno17chiodelli@gmail.com](mailto:bruno17chiodelli@gmail.com)
+- **Phone**: +54 (261) 360 0880
+- **Location**: Mendoza, Argentina
+- **LinkedIn**: [Bruno Chiodelli](https://www.linkedin.com/in/bruno-chiodelli-87811a266/)
+- **GitHub**: [chiodelli-bruno](https://github.com/chiodelli-bruno)
 
 ## License
+This project is open-source and available under the [MIT License](LICENSE).
 
-MIT
+---
+
+Thank you for visiting my portfolio! 🚀
+
